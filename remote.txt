@@ -1,3 +1,4 @@
 new file remote
 new line from local
 3rd line
+4th line from remote
