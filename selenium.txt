@@ -2,3 +2,5 @@ get
 findElement
 click
 getText()
+sendkeys(123)
+
