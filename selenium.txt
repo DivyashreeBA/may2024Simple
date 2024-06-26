@@ -1,4 +1,4 @@
-get
+driver.get
 findElement
 click
 getText()
